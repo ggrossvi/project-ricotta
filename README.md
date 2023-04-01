@@ -10,7 +10,60 @@ Mentors manage office hours, support our hackathons, and provide guidance to the
 
 Need more help? Join our open office hours, which are currently Friday evenings, starting March 24th, from 4-8 ET.
 
+[Learn More about Project Ricotta](https://github.com/Lasagna-Love-Portal/project-ricotta)
+
+## Contributors and Tasks
 
 | Name/Email: | Github Profile: | Tasks: |
 | ------------- | ------------- | ------------ |
-| [Esther Kearney](estherrose046@gmail.com) | [codarose](https://github.com/codarose) |  |
+| [Esther Kearney](estherrose046@gmail.com) | [codarose](https://github.com/codarose) |  | test
+
+## Availability
+
+
+
+## Setup Checklist
+
+
+
+## Resources
+
+
+
+## Naming Conventions
+
+
+
+## Plan of Action
+
+1. Setup google documentation
+2. Team - initial project setup
+3. Team - first commit/pull request test  
+4. Team - development environment setup 
+5. Code using javascript → Convert to typescript
+6. Make Endpoints
+7. Setup email sent to the requestor to inform the requestor the request has been submitted, with information about their request
+8. A suitable success indicator is returned if a request is successfully made.
+9. A suitable error is returned if one or more pieces of required information was not provided
+10. An error is returned if the requestor has made a request within the last 28 days - Lasagna Love allows for one request per month at most
+11. A suitable error is returned if the request could not be successfully made for any other reason
+
+## General Workflow
+
+
+
+## Acceptance Criteria - API
+
+| Fields               | Endpoint  |
+| ---------------------| --------- |
+| Country of Residence | /country  |
+
+
+## Technical Questions
+
+
+
+## General Questions
+
+
+
