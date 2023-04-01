@@ -11,8 +11,13 @@ Mentors manage office hours, support our hackathons, and provide guidance to the
 Need more help? Join our open office hours, which are currently Friday evenings, starting March 24th, from 4-8 ET.
 
 
+| Name/Email: | Github Profile: | Tasks: |
+| ------------- | ------------- | ------------ |
+| [Esther Kearney](estherrose046@gmail.com) | [codarose](https://github.com/codarose) |  | test
+
 ## Acceptance Criteria - API
 
 | Fields               | Endpoint  |
 | ---------------------| --------- |
 | Country of Residence | /country  |
+
