@@ -12,6 +12,11 @@ Need more help? Join our open office hours, which are currently Friday evenings,
 
 [Learn More about Project Ricotta](https://github.com/Lasagna-Love-Portal/project-ricotta)
 
+| Name/Email: | Github Profile: | Tasks: |
+| ------------- | ------------- | ------------ |
+| [Esther Kearney](estherrose046@gmail.com) | [codarose](https://github.com/codarose) |  | test
+
+
 ## Plan of Action
 
 1. Setup google documentation
@@ -27,7 +32,10 @@ Need more help? Join our open office hours, which are currently Friday evenings,
 11. A suitable error is returned if the request could not be successfully made for any other reason
 
 
+## Acceptance Criteria - API
 
-
+| Fields               | Endpoint  |
+| ---------------------| --------- |
+| Country of Residence | /country  |
 
 
