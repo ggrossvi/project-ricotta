@@ -10,11 +10,28 @@ Mentors manage office hours, support our hackathons, and provide guidance to the
 
 Need more help? Join our open office hours, which are currently Friday evenings, starting March 24th, from 4-8 ET.
 
+## Contributors and Tasks
+
 [Learn More about Project Ricotta](https://github.com/Lasagna-Love-Portal/project-ricotta)
 
 | Name/Email: | Github Profile: | Tasks: |
 | ------------- | ------------- | ------------ |
 | [Esther Kearney](estherrose046@gmail.com) | [codarose](https://github.com/codarose) |  | test
+
+## Availability
+
+
+
+## Setup Checklist
+
+
+
+## Resources
+
+
+
+## Naming Conventions
+
 
 
 ## Plan of Action
@@ -31,11 +48,22 @@ Need more help? Join our open office hours, which are currently Friday evenings,
 10. An error is returned if the requestor has made a request within the last 28 days - Lasagna Love allows for one request per month at most
 11. A suitable error is returned if the request could not be successfully made for any other reason
 
+## General Workflow
+
+
 
 ## Acceptance Criteria - API
 
 | Fields               | Endpoint  |
 | ---------------------| --------- |
 | Country of Residence | /country  |
+
+
+## Technical Questions
+
+
+
+## General Questions
+
 
 
