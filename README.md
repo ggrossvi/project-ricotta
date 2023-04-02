@@ -10,9 +10,9 @@ Mentors manage office hours, support our hackathons, and provide guidance to the
 
 Need more help? Join our open office hours, which are currently Friday evenings, starting March 24th, from 4-8 ET.
 
-## Contributors and Tasks
-
 [Learn More about Project Ricotta](https://github.com/Lasagna-Love-Portal/project-ricotta)
+
+## Contributors and Tasks
 
 | Name/Email: | Github Profile: | Tasks: |
 | ------------- | ------------- | ------------ |
