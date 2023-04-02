@@ -14,9 +14,15 @@ Need more help? Join our open office hours, which are currently Friday evenings,
 
 ## Contributors and Tasks
 
-| Name/Email: | Github Profile: | Tasks: |
+| Name: | Github Profile: | Tasks: |
 | ------------- | ------------- | ------------ |
-| [Esther Kearney](estherrose046@gmail.com) | [codarose](https://github.com/codarose) |  | test
+| Shannan Bunch      | [funbunch](https://github.com/funbunch)       |  |
+| Esther Kearney     | [codarose](https://github.com/codarose)       |  |
+| Natia Lollie       | [natiaLollie](https://github.com/natiaLollie) |  |
+| Markie Lyons       | [MsMLyons](https://github.com/MsMLyons)       |  |
+| Christina Rontell  | [tinalr](https://github.com/tinalr)           |  |
+| Faraja Thompson    | [Faraja17](https://github.com/Faraja17)       |  |
+| Gloria Villa       | [ggrossvi](https://github.com/ggrossvi)       |  |
 
 ## Availability
 
